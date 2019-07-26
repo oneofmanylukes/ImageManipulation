@@ -73,6 +73,10 @@
     <Compile Include="Effects\PixelizeEffect.cs" />
     <Compile Include="Effects\IEffect.cs" />
     <Compile Include="Effects\ChannelscaleEffect.cs" />
+    <Compile Include="Filter\BaseFilter.cs" />
+    <Compile Include="Filter\BlurFilter.cs" />
+    <Compile Include="Filter\EdgeDetectionFilter.cs" />
+    <Compile Include="Filter\FilterProcessor.cs" />
     <Compile Include="ImageCollection.cs" />
     <Compile Include="ImageEffects.cs" />
     <Compile Include="Imaging\ColorChannel.cs" />
